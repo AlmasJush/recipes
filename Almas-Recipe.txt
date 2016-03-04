@@ -1,0 +1,7 @@
+This recipe is for pushing to master from my local pc.
+1. create a txt file in local
+2. write the recipe in the file
+3. save it
+4. close the file.
+5. add the file 
+6. push the file
